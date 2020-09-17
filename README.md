@@ -1,6 +1,16 @@
 # landing-page-vacansy
 
-## Project setup
+## Clone Project
+```
+git clone https://github.com/luksluki/lp-vacansy
+```
+
+## Enter The Folder
+```
+cd lp-vacansy
+```
+
+## Install Package
 ```
 npm install
 ```
