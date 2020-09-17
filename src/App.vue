@@ -239,7 +239,7 @@
                   <template v-slot:activator="{ on, attrs }">
                     <v-text-field
                       dark
-                      v-model="date"
+                      v-model="date2"
                       label="Departure Date"
                       prepend-inner-icon="mdi-calendar-blank-outline"
                       readonly
